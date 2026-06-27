@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dem-horizont-entgegen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dem Horizont entgegen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dem-horizont-entgegen/) |
+| **Get License** | [Music Rights & Licensing for Dem Horizont entgegen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dem-horizont-entgegen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig ein, Baby, wir fahr'n dem Horizont entgegen
+> Lass die Skyline hinter uns, im Schein vom Neon-Regen
+> Dein Blick trifft mich tief, unser Feuer entfacht
+> Nur du und ich allein, Babe, uns gehört diese Nacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
