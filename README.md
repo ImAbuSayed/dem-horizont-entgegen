@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dem-horizont-entgegen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Dem Horizont entgegen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dem-horizont-entgegen/) |
+| **Get License** | [Secure Licensing Rights for Dem Horizont entgegen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dem-horizont-entgegen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `304d709cd5c53634e68e22c1d3d5c9ca74590177e5b71036b982faf3c8a8ffd6` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
